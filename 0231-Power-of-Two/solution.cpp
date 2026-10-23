@@ -7,6 +7,7 @@ public:
             n = n/2;
         }
 
-        return true;
+        return n==1;
     }
+    
 };
